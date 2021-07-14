@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LOVE2D autocomplete" type="Lua">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../libraries/love_113" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
